@@ -2,6 +2,5 @@ streamlit
 torch
 tokenizers
 transformers
-base64
 numpy
 requests
