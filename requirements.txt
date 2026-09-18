@@ -1,7 +1,7 @@
 streamlit
 torch
-tokenizers==0.22.2
-transformers==5.3.0
+tokenizers
+transformers
 random
 base64
 numpy
